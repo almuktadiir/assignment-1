@@ -200,8 +200,14 @@ span.second {
     border-radius: 0 10px 10px 0;
 }
 
-
 /* updates part end */
+
+/* contact info start */
+#location {
+    margin-bottom: 50px;
+}
+
+/* contact info end */
 
 /* footer part start */
 footer {
