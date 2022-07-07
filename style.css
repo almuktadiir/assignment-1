@@ -38,10 +38,10 @@ body {
 }
 
 .banner-text p {
-    font-size: 20px;
+    font-size: 18px;
     padding: 20px 80px;
     margin-bottom: 25px;
-    color: #707070;
+    color: white;
 }
 
 .btn {
@@ -66,7 +66,7 @@ body {
 }
 
 .donate-text p {
-    font-size: 20px;
+    font-size: 18px;
     padding: 10px 100px;
     margin-bottom: 40px;
     color: #707070;
@@ -152,6 +152,56 @@ span.second {
 }
 
 /* donate plan part end */
+
+/* updates part start */
+#updates {
+    padding: 0 200px 100px;
+    text-align: center;
+}
+
+.update-text h1 {
+    font-size: 40px;
+    padding: 20px 100px;
+}
+
+.update-text p {
+    font-size: 18px;
+    padding: 10px 100px;
+    margin-bottom: 40px;
+    color: #707070;
+}
+
+.subscribe-btn {
+    margin-right: 10%;
+    background: #FFF4D6;
+    align-content: center;
+    text-align: center;
+    padding: 100px;
+    margin-left: 10%;
+    border-radius: 10px;
+}
+
+#email {
+    border: none;
+    padding: 10px 15px;
+    width: 30%;
+    background: #D9D9D9;
+    color: #AA9F9F;
+    border-radius: 10px 0px 0 10px;
+    font-size: 14px;
+}
+
+.subscribe-btn a {
+    text-decoration: none;
+    background: #FF5959;
+    color: white;
+    padding: 9px 20px;
+    margin-left: -5px;
+    border-radius: 0 10px 10px 0;
+}
+
+
+/* updates part end */
 
 /* footer part start */
 footer {
